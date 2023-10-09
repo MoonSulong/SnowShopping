@@ -10,11 +10,12 @@ const DirectoryItem = ({category}) => {
     
     return (
         <div className='directory-item-container'>
-          <div 
+          <img 
             className='background-image'
             style={{
                 backgroundImage: `url(${imageUrl})`
             }}
+            alt=""
           />
           <div className='body' onClick={onNavigateHandler}>
             <h2>{title}</h2>

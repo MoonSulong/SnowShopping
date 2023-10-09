@@ -5,7 +5,7 @@ const Home = () => {
       {
         id: 1,
         title: 'hats',
-        imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+        imageUrl: 'https://source.unsplash.com/MNzyXXfnnCg',
         route: 'shop/hats'
       },
       {
@@ -16,20 +16,20 @@ const Home = () => {
       },
       {
         id: 3,
-        title: 'sneakers',
-        imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
-        route: 'shop/sneakers'
+        title: 'boots',
+        imageUrl: 'https://source.unsplash.com/_1CTbB3ibZE',
+        route: 'shop/boots'
       },
       {
         id: 4,
         title: 'womens',
-        imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+        imageUrl: 'https://source.unsplash.com/cER9O6ZBGZ4',
         route: 'shop/womens'
       },
       {
         id: 5,
         title: 'mens',
-        imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+        imageUrl: 'https://source.unsplash.com/jyqyKbp0iqg',
         route: 'shop/mens'
       },
     ];
