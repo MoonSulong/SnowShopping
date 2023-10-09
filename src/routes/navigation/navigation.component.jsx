@@ -3,7 +3,7 @@ import { Fragment, useContext } from "react";
 import { useSelector } from 'react-redux';
 import { selectCurrentUser } from "../../store/user/user.selector";
 
-import { ReactComponent as CrownLogo } from "../../assets/crown.svg";
+import { ReactComponent as IceLogo } from "../../assets/ice.svg";
 import CartIcon from "../../components/cart-icon/cart-icon.component";
 import CartDropdown from "../../components/cart-dropdown/cart-dropdown.component";
 
@@ -18,7 +18,7 @@ const Navigation = () =>{
         <Fragment>
             <div className="navigation">
                 <Link className="logo-container" to='/'>
-                    <CrownLogo className="logo" />
+                    <IceLogo className="logo" />
                 </Link>
                 <div className="nav-links-container">
                     <Link className="nav-link" to='shop'>
