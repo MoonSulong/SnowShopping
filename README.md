@@ -1,6 +1,5 @@
 # React & Firebase & Netlify E-commerce System
 - Designed and implemented an interactive shopping page using React, React Router and Redux
-![demo](https://raw.githubusercontent.com/MoonSulong/EventRecommendation/master/img/web.gif)
 
 ## Table of contents
 - [React \& Firebase \& Netlify E-commerce System](#react--firebase--netlify-e-commerce-system)
