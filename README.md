@@ -1,6 +1,6 @@
 # React & Firebase & Netlify E-commerce System
 - Designed and implemented an interactive shopping page using React, React Router and Redux
-- ![demo](https://raw.githubusercontent.com/MoonSulong/SnowShopping/master/homepage.png)
+![demo](https://raw.githubusercontent.com/MoonSulong/SnowShopping/master/homepage.png)
 
 ## Table of contents
 - [React \& Firebase \& Netlify E-commerce System](#react--firebase--netlify-e-commerce-system)
